@@ -1,0 +1,59 @@
+h2 {
+    text-align: center;
+    background-color: black;
+    color: lightgreen;
+    margin: 0;
+    padding: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ 
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: lightgreen;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: black;
+}
+
+li a.active {
+    color: black;
+ 
+}
+
+div table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+div th, td {
+    padding: 5px;
+    text-align: center;    
+}
+
+td a {
+    display: block;
+    text-decoration: none;
+    color: lightgreen;
+    background-color: black;
+}
+
+table {
+    background-color: tomato;
+    color: white;
+    border-color: lightgreen;
+}
