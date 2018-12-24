@@ -1,7 +1,7 @@
 h1 {
 	margin: 0;
 	padding: 14px 16px;
-	color: black;
+	color: white;
 	
 }
 
@@ -20,15 +20,59 @@ li {
 
 li a {
 	display: block;
-	color: black;
+	color: lightgray;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	font-size: 20px;
 }
 li a:hover{
-	background-color: orange;
+	background-color: tomato;
 }
 div{
 	font-size: 20px;
 	text-align: center;
 }
+body{
+	background-image: url('Website-Design-Background.png');
+	background-repeat: no-repeat;
+	background-size: 1280px 500px;
+	background-attachment: fixed;
+	font-family: 'Josefin Slab', serif;
+	font-size: 20px;
+}
+div{
+	color: white;
+	font-size: 18px;
+}
+.me{
+	float: left;
+}
+
+.heading{
+	font-size: 60px;
+
+}
+
+.data{
+	font-size: 25px;
+	float: left;
+	color: black;
+	padding-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
