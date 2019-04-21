@@ -1,0 +1,67 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: lightgray;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	background-color: navy;
+}
+li a:hover{
+	background-color: tomato;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 60px;
+	padding-left: 20px;
+
+
+}
+body{
+	background-image: url('Website-Design-Background.png');
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family:  'Josefin Slab', serif;
+	font-size: 20px;
+
+}
+
+address{
+	color: white;
+	text-align: center;
+	padding-top: 120px;
+}
+
+.back:hover{
+	background-color: tomato;
+}
+.back{
+	color: white;
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
