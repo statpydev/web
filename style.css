@@ -36,7 +36,7 @@ div{
 body{
 	background-image: url('Website-Design-Background.png');
 	background-repeat: no-repeat;
-	background-size: justify;
+	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Josefin Slab', serif;
 	font-size: 20px;
