@@ -1,7 +1,7 @@
 h1 {
 	margin: 0;
 	padding: 14px 16px;
-	color: white;
+	color: green;
 	
 }
 
@@ -36,7 +36,7 @@ div{
 body{
 	background-image: url('Website-Design-Background.png');
 	background-repeat: no-repeat;
-	background-size: 1280px 500px;
+	background-size: justify;
 	background-attachment: fixed;
 	font-family: 'Josefin Slab', serif;
 	font-size: 20px;
